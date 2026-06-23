@@ -29,7 +29,7 @@
     --color-primary-dark: #1a1a1a;
     
     /* Hintergrund & Oberflächen */
-    --color-background: #f0f0f0;
+    --color-background: #fafafa;
     --color-background-alt: #c0c0c0;
     --color-surface: none;
     --color-surface-hover: rgba(108, 108, 108, 0.8);
@@ -38,7 +38,7 @@
     --color-text: #252525;
     --color-text-muted: #505050;
     --color-text-light: #808080;
-    --color-text-inverted: #f0f0f0;
+    --color-text-inverted: #fafafa;
     
     /* Status-Farben */
     --color-success: #2a6e2a;
